@@ -1,0 +1,55 @@
+filename is
+
+The length of circle A is: 64
+
+The length of circle B is 155
+
+The number of total unique clients is 204
+
+The one and done rate for this chapter is: 22.37%
+filename is
+filename is
+
+The length of circle A is: 64
+
+The length of circle B is 155
+
+The number of total unique clients is 204
+
+The one and done rate for this chapter is: 22.37%
+filename is
+chapter_9.csv
+The length of circle A is: 64
+
+The length of circle B is 155
+
+The number of total unique clients is 204
+
+The one and done rate for this chapter is: 22.37%
+filename is
+chapter_1.csv
+The length of circle A is: 4146
+
+The length of circle B is 1743
+
+The number of total unique clients is 4791
+
+The one and done rate for this chapter is: 51.76%
+filename is
+chapter_1.csv
+The length of circle A is: 4146
+
+The length of circle B is 1743
+
+The number of total unique clients is 4791
+
+The one and done rate for this chapter is: 51.76%
+filename is
+chapter_1.csv
+The length of circle A is: 4146
+
+The length of circle B is 1743
+
+The number of total unique clients is 4791
+
+The one and done rate for this chapter is: 51.76%

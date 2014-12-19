@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>One and Done Rate</title>
+	
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id ="page-wrapper">
+	
+		<h1> One and Done Analyzer</h1>
+		<div>
+			Select a text file:
+			<input type="file" id="fileInput" on change="handleFiles(this.files)" accept=".csv">
+		</div>
+		<div id = "thetext"></div>
+			<button onclick = "display(firstbox)">Firstbox</button>
+			<button onclick = "display(secondbox)">Secondbox</button>
+		<pre id="fileDisplayArea"></pre>
+		
+	</div>
+	
+	<script type="text/javascript" src="one_and_done.js"></script>
+</body>
+</html>
